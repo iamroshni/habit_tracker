@@ -9,13 +9,13 @@
 
 To install all the dependences of the project, run the following command:
 
-    git clone https://github.com/iamroshni/Employee_Review_System
+    git clone https://github.com/iamroshni/habit_tracker
     npm install
     npm start
 
 
 #### Source Code:
- - Link : https://github.com/iamroshni/Employee_Review_System
+ - Link : https://github.com/iamroshni/habit_tracker
 
 
 #### Deployment Link:
